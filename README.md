@@ -1,4 +1,4 @@
-# Freshwin10script
+# FreshWin10Script
 This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gits from github. I also added default apps and other tools to the script that I install on every machine.
 
 ## My Additions
