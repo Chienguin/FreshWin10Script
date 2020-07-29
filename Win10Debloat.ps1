@@ -18,7 +18,7 @@
 #	Chien Nguyen Additions:
 #
 #	- Changed External Program Setup
-#   - Fixed syntax
+#       - Fixed syntax
 #
 ##########
 # Default preset
